@@ -8,7 +8,7 @@ project-root/
 │       ├── App.js
 │       └── index.js
 ├── server/
-│   ├── config/
+│   ├── config/ 
 │   ├── controllers/
 │   ├── models/
 │   ├── routes/
