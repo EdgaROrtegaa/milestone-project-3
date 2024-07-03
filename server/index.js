@@ -7,7 +7,7 @@ const { sequelize } = require('./models')
 app.use(express.json())
 
 //controllers
-//app.use('api/users', require('./controller/user'))
+app.use('api/users', require('./controller/users'))
 
 // Server front-end
 app.get('/', (req, res) => {
