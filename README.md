@@ -16,6 +16,9 @@ project-root/
 ├── .env
 └── package.json
 
+## Descrpition
+What this repo is suppose to be have a login page and creating a account then after that it would just send you to the game i had made from a perviews milestone project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
